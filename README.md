@@ -1,6 +1,7 @@
-# Social Support Application
+# Social Application
 
-A responsive 3-step form wizard for government social support applications with AI assistance.
+front-end for a government social support portal. The portal must allow
+citizens to apply for financial assistance easily, quickly, and with smart help (AI).
 
 ## Tech Stack
 
