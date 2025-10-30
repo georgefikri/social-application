@@ -1,0 +1,85 @@
+{
+  "navigation": {
+    "next": "التالي",
+    "back": "السابق",
+    "submit": "إرسال الطلب",
+    "save": "حفظ التقدم"
+  },
+  "steps": {
+    "personal": "المعلومات الشخصية",
+    "financial": "المعلومات العائلية والمالية",
+    "situation": "وصف الحالة"
+  },
+  "personal": {
+    "title": "المعلومات الشخصية",
+    "name": "الاسم الكامل",
+    "nationalId": "الرقم القومي",
+    "dateOfBirth": "تاريخ الميلاد",
+    "gender": "الجنس",
+    "address": "العنوان",
+    "city": "المدينة",
+    "state": "الولاية",
+    "country": "البلد",
+    "phone": "رقم الهاتف",
+    "email": "البريد الإلكتروني",
+    "genderOptions": {
+      "male": "ذكر",
+      "female": "أنثى",
+      "other": "آخر"
+    }
+  },
+  "financial": {
+    "title": "المعلومات العائلية والمالية",
+    "maritalStatus": "الحالة الاجتماعية",
+    "dependents": "عدد المعالين",
+    "employmentStatus": "حالة العمل",
+    "monthlyIncome": "الدخل الشهري",
+    "housingStatus": "حالة السكن",
+    "maritalOptions": {
+      "single": "أعزب",
+      "married": "متزوج",
+      "divorced": "مطلق",
+      "widowed": "أرمل"
+    },
+    "employmentOptions": {
+      "employed": "موظف",
+      "unemployed": "عاطل عن العمل",
+      "selfEmployed": "يعمل لحسابه الخاص",
+      "retired": "متقاعد",
+      "student": "طالب"
+    },
+    "housingOptions": {
+      "owned": "ملك",
+      "rented": "مستأجر",
+      "shared": "مشترك",
+      "homeless": "بلا مأوى"
+    }
+  },
+  "situation": {
+    "title": "وصف الحالة",
+    "financialSituation": "الحالة المالية الحالية",
+    "employmentCircumstances": "ظروف العمل",
+    "reasonForApplying": "سبب التقدم بالطلب",
+    "helpMeWrite": "ساعدني في الكتابة",
+    "aiSuggestion": "اقتراح الذكي الاصطناعي",
+    "accept": "قبول",
+    "edit": "تحرير",
+    "discard": "تجاهل",
+    "generating": "جاري إنشاء الاقتراح...",
+    "error": "فشل في إنشاء الاقتراح. يرجى المحاولة مرة أخرى."
+  },
+  "validation": {
+    "required": "هذا الحقل مطلوب",
+    "email": "يرجى إدخال بريد إلكتروني صحيح",
+    "phone": "يرجى إدخال رقم هاتف صحيح",
+    "nationalId": "يرجى إدخال رقم قومي صحيح"
+  },
+  "app": {
+    "title": "طلب الدعم الاجتماعي",
+    "subtitle": "تقدم بطلب للحصول على مساعدة مالية",
+    "progress": "التقدم",
+    "saveSuccess": "تم حفظ التقدم بنجاح",
+    "submitSuccess": "تم إرسال الطلب بنجاح",
+    "error": "حدث خطأ. يرجى المحاولة مرة أخرى."
+  }
+}

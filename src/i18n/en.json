@@ -1,0 +1,85 @@
+{
+  "navigation": {
+    "next": "Next",
+    "back": "Back",
+    "submit": "Submit Application",
+    "save": "Save Progress"
+  },
+  "steps": {
+    "personal": "Personal Information",
+    "financial": "Family & Financial Info",
+    "situation": "Situation Description"
+  },
+  "personal": {
+    "title": "Personal Information",
+    "name": "Full Name",
+    "nationalId": "National ID",
+    "dateOfBirth": "Date of Birth",
+    "gender": "Gender",
+    "address": "Address",
+    "city": "City",
+    "state": "State",
+    "country": "Country",
+    "phone": "Phone Number",
+    "email": "Email Address",
+    "genderOptions": {
+      "male": "Male",
+      "female": "Female",
+      "other": "Other"
+    }
+  },
+  "financial": {
+    "title": "Family & Financial Information",
+    "maritalStatus": "Marital Status",
+    "dependents": "Number of Dependents",
+    "employmentStatus": "Employment Status",
+    "monthlyIncome": "Monthly Income",
+    "housingStatus": "Housing Status",
+    "maritalOptions": {
+      "single": "Single",
+      "married": "Married",
+      "divorced": "Divorced",
+      "widowed": "Widowed"
+    },
+    "employmentOptions": {
+      "employed": "Employed",
+      "unemployed": "Unemployed",
+      "selfEmployed": "Self-Employed",
+      "retired": "Retired",
+      "student": "Student"
+    },
+    "housingOptions": {
+      "owned": "Owned",
+      "rented": "Rented",
+      "shared": "Shared",
+      "homeless": "Homeless"
+    }
+  },
+  "situation": {
+    "title": "Situation Description",
+    "financialSituation": "Current Financial Situation",
+    "employmentCircumstances": "Employment Circumstances",
+    "reasonForApplying": "Reason for Applying",
+    "helpMeWrite": "Help Me Write",
+    "aiSuggestion": "AI Suggestion",
+    "accept": "Accept",
+    "edit": "Edit",
+    "discard": "Discard",
+    "generating": "Generating suggestion...",
+    "error": "Failed to generate suggestion. Please try again."
+  },
+  "validation": {
+    "required": "This field is required",
+    "email": "Please enter a valid email address",
+    "phone": "Please enter a valid phone number",
+    "nationalId": "Please enter a valid national ID"
+  },
+  "app": {
+    "title": "Social Support Application",
+    "subtitle": "Apply for financial assistance",
+    "progress": "Progress",
+    "saveSuccess": "Progress saved successfully",
+    "submitSuccess": "Application submitted successfully",
+    "error": "An error occurred. Please try again."
+  }
+}
